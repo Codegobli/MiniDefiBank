@@ -35,6 +35,18 @@ Users can deposit ETH, earn 10% yearly interest, and claim it after a full year.
 
 ---
 
+## 📄 Contract
+
+You can view the full smart contract in [`miniDefiBank.sol`](./miniDefiBank.sol).
+
+---
+
+## 🧪 Future Add-ons
+
+- Unit tests (using Foundry or Hardhat)
+- Frontend interface
+- Testnet deployment
+
 ## 📊 Tech Stack
 
 - **Solidity** `^0.8.20`
